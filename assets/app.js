@@ -1,6 +1,6 @@
 // ===== CONFIG (edite aqui) =====
 const CONFIG = {
-  whatsappNumber: "5511953970882", // 55 + DDD + número
+  whatsappNumber: "5511999999999", // 55 + DDD + número
   baseMessage: "Olá! Preciso de atendimento sobre: "
 };
 
